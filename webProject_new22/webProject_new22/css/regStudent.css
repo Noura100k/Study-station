@@ -1,0 +1,48 @@
+h1{
+	padding-top: 10px;
+	color: #C6A477;
+	text-align: center;
+}
+body {
+	
+	font-family: Serif;
+	font-size:20px ;
+	color: #7097A8;
+}
+
+form {width: 425px; margin: 34px auto;}
+form tr {
+    border: 1px solid #CCC;
+    background: #f4f3f2;
+}
+form table {width: 425px; margin-bottom: 16px;}
+form th {
+    width: 85px;
+    border-right: 1px solid #CCC;
+    vertical-align: middle;
+    padding: 8px;
+}
+form td {
+    padding: 15px 15px;
+}
+
+form td input
+{
+    width: 100%;
+}
+ input[type="submit"] {
+    width: 375px;
+    text-align: center;
+    border: 1px solid #C6A477;
+    background: #C6A477;
+    color: #FFF;
+    -webkit-border-radius: 2px;
+    border-radius: 2px;    
+    font-size: 14px;
+    text-transform: uppercase;
+    padding: 14px;
+}
+a
+{
+  color:#7097A8;
+}

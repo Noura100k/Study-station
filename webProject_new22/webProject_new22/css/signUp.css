@@ -1,0 +1,63 @@
+h1{
+    padding-top: 10px;
+    color: #C6A477;
+    text-align: center;
+}
+body {
+  
+   
+    font-family: Serif;
+    font-size:20px ;
+    color: #7097A8;
+}
+
+
+a:hover 
+{
+    opacity: 1;
+    color: #C6A477;
+    
+}
+
+img
+{
+    width: 60px;
+    
+}
+
+
+.column
+{
+
+    float: left;
+    background-color:#7097A8;
+    border-radius: 15px;
+    border-style: dotted;
+    border-color: moccasin;
+    width: 230px;
+    height: 210px;
+    padding: 20px;
+    margin: 15px;
+    color: #C6A477;
+    text-align:center !important;
+    
+}
+
+#about
+{
+    display: inline-block;
+    margin-left: 460px;
+}
+
+p
+{
+  color: white;
+  
+}
+a{
+    text-decoration:none;
+}
+
+
+
+

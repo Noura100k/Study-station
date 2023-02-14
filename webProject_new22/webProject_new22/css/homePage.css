@@ -1,0 +1,132 @@
+body {
+   
+	margin: auto;
+	vertical-align: middle;
+}
+
+
+#logo , header nav{
+	font-family: Sans-serif	;
+	font-size: 20px;
+	vertical-align: middle;
+	display: inline-block;
+
+	}
+header {
+		
+	background-color: #D3E7EE;
+	margin-bottom: 30px;
+	color: #7097A8;
+	
+}
+#logo{
+
+	height: 3%;
+	width: 10%;
+	margin: 10px auto;
+}
+
+nav li{
+	color: #7097A8;
+	display: inline;
+	padding: 0px 15px;
+	border-right: 3px dotted #ECD59F;
+	
+}
+
+main{
+	margin: 50px;
+	text-align: center;
+	font-family: Serif;
+	font-size:20px ;
+	color: #7097A8;
+    margin-top: 5px;
+
+}
+
+footer{
+	font-family: Sans-serif	;
+	font-size: 15px;
+	background-color: #C6A477;
+	padding: 10px 0 0 0;
+	color: #D3E7EE;
+	margin-top: 20px;
+	display: inline-block;
+	width: 100%;
+
+}
+
+
+
+select
+{
+   width: 30%;
+   background-color:#D3E7EE;
+   text-align: center;
+   color: #7097A8;
+   font-family: Serif;
+   font-size: medium;
+   text-transform: uppercase;
+  
+}
+button
+{
+
+    width: 30%;
+    background-color:#7097A8;
+    text-align: center;
+    color: white;
+    border-color: #7097A8;
+    font-family: Sans-serif	;
+    font-size: medium;
+    text-transform: uppercase;
+    margin-top: 10px;
+    
+
+}
+#background
+{
+  text-align: center;
+
+}
+footer >div:not(last-child)
+{
+    float: left;
+}
+
+footer >div:not(:nth-child(2))
+{
+    margin-right: 30px;
+}
+footer img
+{
+  width: 50px;
+  height: 50px;
+  text-align: center;
+}
+
+footer > div:nth-child(3) h4
+{
+  text-align: center;
+}
+
+
+#foot_text
+{
+    float: right;
+	border-right: 10px;
+	font-size: 25px;
+}
+
+#contact
+{
+	font-size: 20px;
+	margin-left: 20px;
+
+}
+
+#follow
+{
+	font-size: 20px;
+	margin-left:  80px;
+}

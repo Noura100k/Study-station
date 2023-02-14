@@ -1,0 +1,54 @@
+#instructors
+{
+
+    display: inline-block ;
+    
+}
+
+.instructor li
+{
+    float: left;
+    background-color:#7097A8;
+    width: 200px;
+    height: 210px;
+    border-radius: 15px;
+    padding: 20px;
+    margin: 15px;
+    text-align: center;
+    list-style: none;
+    border-style: inset;
+    border-color: rgb(80, 80, 80);
+   
+   
+   
+
+}
+
+#inst{
+
+    
+    font-size:20px;
+   
+    
+}
+#add
+{
+    width: 200px;
+    background-color: rgb(80, 80, 80);
+    font-style: italic;
+    margin-top: 40px;
+    border-radius: 15px;
+    border-style: dotted;
+    border-color: moccasin;
+   
+}
+#add:hover
+{
+    background-color: #C6A477;
+    color: rgb(80, 80, 80);
+    
+}
+
+
+
+
